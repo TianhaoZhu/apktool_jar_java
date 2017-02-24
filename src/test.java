@@ -16,6 +16,7 @@ public class test {
         decoder.setOutDir(new File("/home/zhutianhao/下载/apk/xdmout"));
         decoder.setApkFile(inFile);
         decoder.decode();
+/************git clone test**********************/
 
 /*        try {
             System.out.println("1");
