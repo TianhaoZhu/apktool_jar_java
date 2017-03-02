@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="apktool_2.2.2">
     <CLASSES>
-      <root url="jar://$USER_HOME$/桌面/apktool_2.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/桌面/apktooltest/apktool_2.2.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/桌面/apktool_2.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/桌面/apktooltest/apktool_2.2.2.jar!/" />
     </SOURCES>
   </library>
 </component>
